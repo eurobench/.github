@@ -52,8 +52,6 @@ Templates are provided for algorithm structure
 [`eurobench_uneven_terrain`](https://github.com/eurobench/eurobench_uneven_terrain) | to be described |
 [`eurobench_simulated_pendulum`](https://github.com/eurobench/eurobench_simulated_pendulum) | ro be described |
 
-[docker_test](https://github.com/eurobench/docker_test) | generic python script to launch a docker image and make integration testing|
-
 ## Acknowledgements
 
 <a href="http://eurobench2020.eu">
