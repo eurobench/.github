@@ -2,6 +2,7 @@
 
 Collection of code repositories gathered in the context of the European project [Eurobench][eurobench_website].
 
+All information contained in [profile/README.md](profile/README.md).
 
 ## Acknowledgements
 
