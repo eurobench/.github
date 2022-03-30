@@ -18,6 +18,7 @@ Collection of code repositories gathered in the context of the European project 
 
 | name | description |
 |------|-------------|
+| [`dysturbance`](https://github.com/eurobench/dysturbance) | stability analysis under external perturbation |
 | [`rrd_pi_slope`](https://github.com/eurobench/rrd_pi_slope) | kinematics of stair walking and inclined walking |
 | [`pi_bench`](https://github.com/eurobench/pi_bench) | sit-to-stand performance analysis|
 | [`pi_sbs_human_factor`](https://github.com/eurobench/pi_sbs_human_factor) | Human factor study during stair walking |
